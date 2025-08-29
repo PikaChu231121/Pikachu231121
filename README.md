@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+- 🌱 I’m currently studying at **Tongji University**, majoring in **Software Engineering**
+- 📫 How to reach me: zy4963@outlook.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pikachu231121&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pikachu231121&layout=donut&theme=transparent)
